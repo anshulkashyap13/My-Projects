@@ -1,4 +1,4 @@
-# My-Projects
+# My-Python Projects
 
 This repository contains some of my projects that I have been working on.
 
